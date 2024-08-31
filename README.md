@@ -2,19 +2,19 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15709402&assignment_repo_type=AssignmentRepo)
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
- Fundamental concepts of version control
+A) Fundamental concepts of version control
   1) It tracks changes to files and directories over time,allowing  you to access and revert to previous versions of the project.
   2) Commits allow you to document the history of changes and provide context for each modification.
   3) Branching allows you to create separate lines of development within a project.
   4) Merging is the process of integrating changes from one branch into another alowing collaborative works.
   5) A repository is a storage location for your project files and their version history
-Why Github is popular for manging versions of code
+B)Why Github is popular for manging versions of code
  1) Git integration. GitHub is built on Git, a widely-used distributed version control system. It leverages Git’s features, such as branching,
     merging, and commit history, providing a robust framework for managing versions.
  2) Collaboration. GitHub provides tools for collaborative development, including pull requests, code reviews, and issue tracking
  3) Remote hosting. GitHub offers cloud-based hosting for Git repositories hence making it easy to access your code from anywhere and share it with others.
  4) User-friendly interface.
-How version control helps in maintaining project integrity
+C)How version control helps in maintaining project integrity
  1) Track changes.
  2) Branching and isolation.
  3) Documentation and accountability.
